@@ -4,9 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.NoSuchElementException;
 
-/*
- * Class that creates the backend search alogorithm
- */
 public class CHSearchBackendBD implements CHSearchBackendInterface {
     private HashtableWithDuplicateKeysInterface<String,PostInterface> hashtable;
     PostReaderInterface postReader;

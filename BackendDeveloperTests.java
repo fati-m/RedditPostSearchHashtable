@@ -2,9 +2,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.List;
 
-/*
- * Class containing all functionaltiy tests for the backend class
- */
+
 public class BackendDeveloperTests {
     public static void main(String args[]) {
         if(test1()){
